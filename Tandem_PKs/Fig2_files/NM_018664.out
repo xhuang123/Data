@@ -1,0 +1,86 @@
+Sequence #: NM_018664 
+Start=79 End=462
+loaded 836 nucleotides, cds_start 79 to cds_end 462
+
+Energy 1: -32.070000: Start=56 S1=7 S2=5 L1=4 L2=11 L3=0 End=94
+
+                    ATGTCGCAAGG       CAGA
+
+                    CGGCCCG    CGAGG
+
+GCGCGGGCGGGGCGGGGCGGGCCGGGC    GCTCCCG
+
+
+Energy 2: -30.795000: Start=9 S1=6 S2=5 L1=5 L2=13 L3=0 End=48
+
+                    AGGGCGCGCGGGC       AGGCA
+
+                    CGGGCA    CCCCG
+
+            GGGACAGCGCCCGT    GGGGCGG
+
+
+Energy 3: -30.795000: Start=9 S1=6 S2=5 L1=5 L2=18 L3=0 End=53
+
+                    AGGGCGCGCGGGCGGGGC       AGGCA
+
+                    CGGGCA    CCCCG
+
+            GGGACAGCGCCCGT    GGGGCGG
+
+
+Energy 4: -29.665000: Start=426 S1=7 S2=5 L1=2 L2=19 L3=0 End=470
+
+                    CTGCTTGCCCCGATGAAGC       GA
+
+                    GGCCGGT    GTCCC
+
+AACTTTGTGCCAGTGCCTCCCCGGCCG    CGGGGAC
+
+
+Energy 5: -24.720000: Start=571 S1=5 S2=6 L1=1 L2=26 L3=0 End=619
+
+                    CCAGCCAGCTGTGTTCCCTGCAGACT       G
+
+                    AGGAC    CTCGAG
+
+GCACCTGTGGCCAGGCCTCCTCCTG    GGGCTCAG
+
+
+Energy 6: -24.025000: Start=711 S1=5 S2=6 L1=5 L2=5 L3=0 End=742
+
+                    TATGC       TAGTA
+
+                    TGTCG    TCTTGG
+
+GTGACTTCTCATCCACCCTGGCAGC    AGAGCCAT
+
+
+Energy 7: -22.955000: Start=721 S1=8 S2=5 L1=1 L2=18 L3=0 End=765
+
+                    ATTTCCTCTAGAATTTGG       T
+
+                    CCGAGACG    TATTG
+
+ATCCACCCTGGCAGCTAGTAGGTTCTGC    ATAATAA
+
+
+Energy 8: -21.975000: Start=443 S1=6 S2=5 L1=9 L2=31 L3=0 End=504
+
+                    GGACACTCCTCTGCCCAGCAAGGAGCCTTGG       GCTTGCCCC
+
+                    GGCCGA    AGTAG
+
+TCCCCGGCCGGACCCTGTGGCCGGCT    TCATTTT
+
+
+Energy 9: -20.625000: Start=514 S1=5 S2=6 L1=2 L2=31 L3=0 End=568
+
+                    TCACAATTGTATACAGGGGGCACCTGTGGCC       GA
+
+                    TCCTT    TTCGGA
+
+CCTTGGTCATTTTCATACCTGGGAG    AGGCCTCC
+
+Time taken to run: 1 seconds 140 milliseconds
+-------------------------------------------------

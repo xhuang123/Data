@@ -1,0 +1,71 @@
+Sequence #: NM_018010 
+Start=103 End=1392
+loaded 3057 nucleotides, cds_start 103 to cds_end 1392
+
+Energy 1: -28.000000: Start=31 S1=5 S2=7 L1=9 L2=14 L3=0 End=77
+
+                    AGAGGTCTGTGGGC       AGGGCTGGC
+
+                    CGCCG    GATTCGG
+
+CGGTCGTGGCTGTACTGGCGGCGGC    CTGAGCCCA
+
+
+Energy 2: -27.450000: Start=45 S1=9 S2=5 L1=10 L2=20 L3=0 End=102
+
+                    CACGCTGGACTCTGTCCGTT       CGCAGAGGTC
+
+                    CCGAGTCCG    GGTGT
+
+CTGGCGGCGGCAGGGCTGGCGGCTTAGGC    CTGCGAT
+
+
+Energy 3: -21.955000: Start=524 S1=8 S2=5 L1=2 L2=17 L3=0 End=568
+
+                    GATTGCTTCGCTGAAGA       GT
+
+                    TTCTTGTA    TCGTA
+
+AAAATTAAAGTCAGGTTATGGAGAACAT    AGCATTG
+
+
+Energy 4: -21.680000: Start=10 S1=5 S2=6 L1=3 L2=14 L3=0 End=48
+
+                    CGGCGGCAGGGCTG       CGT
+
+                    GGTCA    TGTCGG
+
+           GCCTGGTAACCGGT    GCGGCTTA
+
+
+Energy 5: -20.910000: Start=100 S1=6 S2=6 L1=8 L2=6 L3=0 End=137
+
+                    CACGAC       ACTGCTGC
+
+                    TGCTGC    CGGTCT
+
+CGCTGGACTCTGTCCGTTCTGCGATG    GTCGGGTT
+
+
+Energy 6: -20.500000: Start=1716 S1=5 S2=5 L1=8 L2=25 L3=0 End=1768
+
+                    CAGTCCTTTACCTTGCTCCACCTCT       CAACATGA
+
+                    ACAGT    CGTCA
+
+TTTTCTGCAGATGCTGCTGCTGTCA    GCAGTGA
+
+
+Energy 7: -20.385000: Start=49 S1=5 S2=6 L1=1 L2=30 L3=0 End=101
+
+                    TGGGCCTGAGCCCACGCTGGACTCTGTCCG       C
+
+                    GTCTG    GAGACG
+
+CGGCGGCAGGGCTGGCGGCTTAGGC    TTCTGCGA
+
+Found #1 stem loop within loop2: S3=5 AL=4 L2_tail=16 loop2(66-94) cds_start=103
+(TGGGC)CTGA(GCCCA)CGCTGGACTCTGTCCG
+
+Time taken to run: 4 seconds 550 milliseconds
+-------------------------------------------------

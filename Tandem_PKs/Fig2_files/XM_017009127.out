@@ -1,0 +1,32 @@
+Sequence #: XM_017009127 
+Start=92 End=676
+loaded 1173 nucleotides, cds_start 92 to cds_end 676
+
+Energy 1: -28.390000: Start=13 S1=5 S2=7 L1=1 L2=21 L3=0 End=58
+
+                    CCCTGGGCAGCTCTGAGCTCG       G
+
+                    GAGGC    GTCTCCG
+
+        GAGTGTGGGCGCCTCCG    CGGAGGCGT
+
+
+Energy 2: -22.710000: Start=58 S1=5 S2=6 L1=8 L2=16 L3=0 End=103
+
+                    GCGCGCGGGGATGGGG       CCGGTGCG
+
+                    GCGCC    CGGGGC
+
+CAGCTCTGAGCTCGCGGAGGCGTGG    GTCTCGGT
+
+
+Energy 3: -20.975000: Start=87 S1=5 S2=5 L1=2 L2=26 L3=0 End=134
+
+                    GTGGATGTGCACCAGGTGTACAAGTA       AT
+
+                    GCTCT    GGGGG
+
+TGCGCGGGGCCCGCGGCGCGCGGGG    CCCCTTC
+
+Time taken to run: 1 seconds 700 milliseconds
+-------------------------------------------------
