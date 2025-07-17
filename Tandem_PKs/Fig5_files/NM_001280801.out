@@ -1,0 +1,95 @@
+Sequence #: NM_001280801 
+Start=58 End=1212
+loaded 1810 nucleotides, cds_start 58 to cds_end 1212
+
+Energy 1: -32.690000: Start=67 S1=5 S2=8 L1=2 L2=12 L3=0 End=106
+
+                    CCGGCTCGCCGC       GC
+
+                    CGTCC    CGGGCGGG
+
+CCGGAGGGACGATGAGCTGCGCGGG    GCTCGCCCTG
+
+
+Energy 2: -30.505000: Start=67 S1=7 S2=5 L1=1 L2=5 L3=0 End=96
+
+                    CCGGC       G
+
+                    CGTCCCG    GGCGG
+
+CCGGAGGGACGATGAGCTGCGCGGGGC    TCGCCGC
+
+
+Energy 3: -28.480000: Start=67 S1=6 S2=6 L1=2 L2=18 L3=0 End=110
+
+                    CCGGCTCGCCGCGCTCGC       CG
+
+                    CGTCCC    GGGCGG
+
+CCGGAGGGACGATGAGCTGCGCGGGG    CCTGCTGA
+
+
+Energy 4: -27.370000: Start=67 S1=6 S2=5 L1=3 L2=26 L3=0 End=117
+
+                    CCGGCTCGCCGCGCTCGCCCTGCTGA       CGG
+
+                    CGTCCC    GGGCG
+
+CCGGAGGGACGATGAGCTGCGCGGGG    CCTGCAG
+
+
+Energy 5: -26.330000: Start=68 S1=5 S2=6 L1=2 L2=5 L3=0 End=96
+
+                    CCCGG       CG
+
+                    GTCCC    GGGCGG
+
+CGGAGGGACGATGAGCTGCGCGGGG    CTCGCCGC
+
+
+Energy 6: -25.230000: Start=183 S1=5 S2=5 L1=10 L2=21 L3=0 End=233
+
+                    CCGCTCACGTTTCGCATCGAC       AGGAGCCCGG
+
+                    CCGCG    GCGCC
+
+ACGGCGCTCATCAACGTGACGGTGC    CGCGGGC
+
+
+Energy 7: -24.325000: Start=75 S1=5 S2=5 L1=7 L2=29 L3=0 End=130
+
+                    GCGCTCGCCCTGCTGACCTGCAGCCTGTG       GCCCTGC
+
+                    CCGCT    CGGCC
+
+ACGATGAGCTGCGCGGGGCGGGCGG    GCCGGCA
+
+
+Energy 8: -21.940000: Start=68 S1=5 S2=5 L1=3 L2=34 L3=0 End=124
+
+                    CCCGGCTCGCCGCGCTCGCCCTGCTGACCTGCAG       CGG
+
+                    GTCCC    GGGCG
+
+CGGAGGGACGATGAGCTGCGCGGGG    CCTGTGG
+
+
+Energy 9: -21.100000: Start=24 S1=5 S2=5 L1=8 L2=15 L3=0 End=66
+
+                    CCGGAGGGACGATGA       CGCGAGCA
+
+                    GTCGG    CGGCG
+
+TAGGCGCCGGCCCCGGAGCCCGGTC    GCTGCGC
+
+
+Energy 10: -20.110000: Start=380 S1=5 S2=5 L1=3 L2=28 L3=0 End=430
+
+                    CGTTTAAAGAGAAAATATCACGGGCCGC       AGG
+
+                    ACGTC    AAAGG
+
+CAAACAGTGGATTGCCTTGCTGCAG    TTTCCAC
+
+Time taken to run: 2 seconds 650 milliseconds
+-------------------------------------------------

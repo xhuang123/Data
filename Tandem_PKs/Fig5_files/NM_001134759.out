@@ -1,0 +1,29 @@
+Sequence #: NM_001134759 
+Start=232 End=810
+loaded 1620 nucleotides, cds_start 232 to cds_end 810
+
+Energy 1: -25.545000: Start=188 S1=7 S2=8 L1=1 L2=22 L3=0 End=240
+
+                    TGATAGAAGCTGTTGGAGATAA       T
+
+                    GGGGTCG    GTGTAGAC
+
+AAACCACTCTTACCCTATACTCCTGGC    TGCATCTGCT
+
+Found #1 stem loop within loop2: S3=6 AL=3 L2_tail=7 loop2(211-231) cds_start=232
+(TGATAG)AAG(CTGTTG)GAGATAA
+
+
+Energy 2: -22.780000: Start=240 S1=7 S2=6 L1=4 L2=19 L3=0 End=288
+
+                    TGGAGAGAGTGTTCTGGTT       AGTG
+
+                    CGAAAGT    GTGTCC
+
+CTGTTGGAGATAATGCATCTGCTTTCA    CATGGGGC
+
+Found #2 stem loop within loop2: S3=5 AL=6 L2_tail=3 loop2(264-281) cds_start=232
+(TGGAG)AGAGTG(TTCTG)GTT
+
+Time taken to run: 2 seconds 450 milliseconds
+-------------------------------------------------

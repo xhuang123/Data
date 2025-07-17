@@ -1,0 +1,116 @@
+Sequence #: NM_001382464 
+Start=78 End=1523
+loaded 5178 nucleotides, cds_start 78 to cds_end 1523
+
+Energy 1: -27.035000: Start=773 S1=5 S2=10 L1=3 L2=26 L3=0 End=831
+
+                    CAAGTGAAGAGAACACTTTTTACAGT       TGG
+
+                    AGGGA    ACTGGTCTTC
+
+ACAATTAAAAGACCTTTAAATCCTT    TGGCTAGAAGGT
+
+
+Energy 2: -26.745000: Start=111 S1=7 S2=5 L1=4 L2=5 L3=0 End=143
+
+                    CTCGG       CCGT
+
+                    GACTCGT    CGGTG
+
+GGGGATTCTTGTTTGGCCTCCTGGGCG    GCCACGG
+
+
+Energy 3: -26.170000: Start=71 S1=6 S2=5 L1=3 L2=14 L3=0 End=109
+
+                    GGGGATTCTTGTTT       AAT
+
+                    TCGGCG    CCGGG
+
+GTGGGGCGACAAGCTGCCGGAGCTGC    GGCCTCC
+
+
+Energy 4: -24.815000: Start=112 S1=5 S2=6 L1=5 L2=5 L3=0 End=143
+
+                    GCTCG       GCCGT
+
+                    ACTCG    TCGGTG
+
+GGGATTCTTGTTTGGCCTCCTGGGC    GGCCACGG
+
+
+Energy 5: -24.235000: Start=71 S1=5 S2=6 L1=4 L2=13 L3=0 End=109
+
+                    GGGGATTCTTGTT       CAAT
+
+                    TCGGC    GCCGGG
+
+GTGGGGCGACAAGCTGCCGGAGCTG    TGGCCTCC
+
+
+Energy 6: -22.805000: Start=89 S1=5 S2=6 L1=10 L2=22 L3=0 End=142
+
+                    GCGCCGTGTGGCTGCTCAGCTC       GATTCTTGTT
+
+                    GGTCC    TCCGGT
+
+GGAGCTGCAATGGGCCGCGGCTGGG    GGGCCACG
+
+
+Energy 7: -22.440000: Start=3505 S1=5 S2=8 L1=7 L2=31 L3=0 End=3568
+
+                    TAGCTCACTGCAAGCTCTGCCTTCCAGGTTC       GGAGTGC
+
+                    TCTAG    TGCGGTGA
+
+GGAGTCTTGCTGTGTCGCCCAGGTT    ACGCCATTCT
+
+
+Energy 8: -22.285000: Start=188 S1=6 S2=7 L1=1 L2=22 L3=0 End=236
+
+                    ATGATTGTACCTGTGATGTTGA       T
+
+                    GGTTCA    TTGGTGA
+
+GCGGCACAGAGGTGCTTCTGCCAGGT    AACCATTGA
+
+
+Energy 9: -22.150000: Start=3162 S1=8 S2=5 L1=1 L2=31 L3=0 End=3219
+
+                    CCAATAAATATTTGTTGGATGAATGTATGCA       C
+
+                    TATGGTTC    ATACA
+
+TGTCCCTAAGGCCTGGTACAGTGCCAAG    TATGTAT
+
+Found #1 stem loop within loop2: S3=7 AL=4 L2_tail=13 loop2(3184-3213) cds_start=78
+(CCAATAA)ATAT(TTGTTGG)ATGAATGTATGCA
+
+
+Energy 10: -21.575000: Start=71 S1=5 S2=5 L1=5 L2=32 L3=0 End=127
+
+                    GGGGATTCTTGTTTGGCCTCCTGGGCGCCGTG       CAATG
+
+                    TCGGC    GCCGG
+
+GTGGGGCGACAAGCTGCCGGAGCTG    TGGCTGC
+
+
+Energy 11: -21.140000: Start=121 S1=5 S2=5 L1=9 L2=13 L3=0 End=162
+
+                    GAGAGGAGCAGCC       CTGCTCAGC
+
+                    GCACC    GGGCT
+
+GTTTGGCCTCCTGGGCGCCGTGTGG    CCCGGAG
+
+
+Energy 12: -21.020000: Start=1451 S1=8 S2=6 L1=6 L2=7 L3=0 End=1491
+
+                    AAAGAAT       GAAGAA
+
+                    GTGTGAAC    ATCTTT
+
+GAAATAGTATCATTATTCAACGCATTTG    TAGAAAAC
+
+Time taken to run: 7 seconds 780 milliseconds
+-------------------------------------------------
