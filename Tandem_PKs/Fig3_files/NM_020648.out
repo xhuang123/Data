@@ -1,0 +1,59 @@
+Sequence #: NM_020648 
+Start=186 End=857
+loaded 3750 nucleotides, cds_start 186 to cds_end 857
+
+Energy 1: -27.970000: Start=3 S1=7 S2=5 L1=4 L2=14 L3=0 End=44
+
+                    GCGCTGAGGGGACG       GAGG
+
+                    TCGCGGG    CGCTC
+
+                  AAGGTGCCC    GCGGGAG
+
+
+Energy 2: -27.605000: Start=1194 S1=5 S2=10 L1=5 L2=33 L3=0 End=1261
+
+                    TGTTGATGTGAATTATGATTTCTTCATGTGCTA       TGAAA
+
+                    ACGAA    GACGATTGTG
+
+CTAGCATTCCAAAAGGTTTTTGCTT    CTGTTAGCACAC
+
+
+Energy 3: -25.150000: Start=44 S1=5 S2=6 L1=2 L2=26 L3=0 End=93
+
+                    GCACTCAAAGCCGCCGCAGCGCGCCC       GC
+
+                    CTCCG    GTCCGG
+
+CTGCGCTGAGGGGACGGCGGGAGGC    CGGGCTCG
+
+
+Energy 4: -21.320000: Start=239 S1=7 S2=6 L1=5 L2=18 L3=0 End=287
+
+                    AACAAAGCACTCTGTGCT       CCAGA
+
+                    TGTCGAG    TCACTA
+
+GCCATCCTGATGTTCCTGACATGGCTT    AGTGATGT
+
+
+Energy 5: -21.185000: Start=239 S1=6 S2=7 L1=6 L2=17 L3=0 End=287
+
+                    AACAAAGCACTCTGTGC       TCCAGA
+
+                    TGTCGA    GTCACTA
+
+GCCATCCTGATGTTCCTGACATGGCT    TAGTGATGT
+
+
+Energy 6: -20.795000: Start=2331 S1=8 S2=6 L1=1 L2=10 L3=0 End=2369
+
+                    GTTAGTTAAA       A
+
+                    ATGATAAG    TCTAGT
+
+ATGCTCTTGGACACATTTTGTATTATTC    AGATCATT
+
+Time taken to run: 4 seconds 960 milliseconds
+-------------------------------------------------

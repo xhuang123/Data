@@ -1,0 +1,287 @@
+Sequence #: NM_018998 
+Start=169 End=1869
+loaded 2362 nucleotides, cds_start 169 to cds_end 1869
+
+Energy 1: -36.025000: Start=9 S1=8 S2=9 L1=2 L2=5 L3=0 End=49
+
+                    GCCTG       TC
+
+                    GGCTGCGG    TGCTCGGGG
+
+            CTCGGCCATCGATGCC    GCGGGCTCCCC
+
+
+Energy 2: -34.020000: Start=232 S1=8 S2=5 L1=8 L2=18 L3=0 End=283
+
+                    GGTGTGCCGCCAATGGCA       CGACGTGC
+
+                    TCGGGCCG    CCGGT
+
+ACCAGATCTTCCTGAGCCTGGGCCCGGC    GGCCGTG
+
+
+Energy 3: -27.135000: Start=1438 S1=5 S2=6 L1=9 L2=13 L3=0 End=1481
+
+                    ACCCCATGCAGCC       CAACGGTGC
+
+                    GCCGG    TGGTGG
+
+TGTACGTGAACAGCCGCGCCTGGCC    GCCACCAA
+
+
+Energy 4: -26.705000: Start=1438 S1=5 S2=6 L1=9 L2=10 L3=0 End=1478
+
+                    ACCCCATGCA       CAACGGTGC
+
+                    GCCGG    TGGTGG
+
+TGTACGTGAACAGCCGCGCCTGGCC    GCCGCCAC
+
+
+Energy 5: -26.510000: Start=128 S1=7 S2=5 L1=8 L2=34 L3=0 End=193
+
+                    GGCAGAATGTCACGATGGACGAGGGCGGCACGCC       AGGCGGCC
+
+                    GTCCGCC    GGGTG
+
+GCAGGGCGGGGGCGGCGCAGCGGGCGG    CCTGCTC
+
+
+Energy 6: -26.055000: Start=2228 S1=5 S2=10 L1=4 L2=18 L3=0 End=2279
+
+                    GGTTGTGCGCCCGGGGCT       AGGG
+
+                    TGTCG    GTCCTCGTCG
+
+CCCTGGACGGTGGCCCAGTGGTGGC    TGGGAGCGGCCG
+
+
+Energy 7: -25.910000: Start=2103 S1=5 S2=6 L1=8 L2=13 L3=0 End=2145
+
+                    GCTCCTCACTCAA       ACAGGATA
+
+                    CCGTG    GGGGTC
+
+CGGCCTCCTGGGCAACTTGGGGTAC    CCCCAGGC
+
+
+Energy 8: -25.525000: Start=20 S1=8 S2=5 L1=8 L2=5 L3=0 End=58
+
+                    CCCGT       GGCGTCGG
+
+                    CTCGGGCG    GTCCG
+
+ CTCGGCCATCGATGCCTCGGGGCTCGT    TGGGCGG
+
+
+Energy 9: -25.365000: Start=2150 S1=5 S2=7 L1=9 L2=15 L3=0 End=2197
+
+                    GGCCCGGGGCACCTT       ACACCTGAC
+
+                    CTCCG    GTCGACC
+
+CCTCACTCAACCCCAGGCTAGGGGT    CGGCTGGTC
+
+
+Energy 10: -24.420000: Start=1032 S1=5 S2=5 L1=10 L2=11 L3=0 End=1072
+
+                    CACGCCAAGGA       TGGCTGGCCC
+
+                    CCGCC    CCCGG
+
+CTGGGCAGCGACAACGAGGAGGTGG    GGGCTTG
+
+
+Energy 11: -24.350000: Start=2139 S1=5 S2=5 L1=1 L2=14 L3=0 End=2173
+
+                    ACACCTGACCCAGC       A
+
+                    TGGGG    ATCGG
+
+GGGGTGCCGCTCCTCACTCAACCCC    TGGCCTC
+
+
+Energy 12: -24.275000: Start=1 S1=5 S2=8 L1=3 L2=6 L3=0 End=35
+
+                    GCTCGT       CCA
+
+                    GGGCT    CCGTAGCT
+
+                    CTCGG    GGCGTCGGGC
+
+
+Energy 13: -24.180000: Start=1514 S1=5 S2=7 L1=5 L2=10 L3=0 End=1552
+
+                    GAGGCGGGCT       AAGAC
+
+                    TGGAG    GGCGTAC
+
+GATTGACCTGCTGGTGTTCGACCTC    CTGCGTGCG
+
+
+Energy 14: -23.470000: Start=45 S1=6 S2=5 L1=3 L2=32 L3=0 End=101
+
+                    GGCGGTCCGAGCGGCTGCGGCAGCGGAAGCGG       CGT
+
+                    CGGGGG    CGGGT
+
+CGTGGCGTCGGGCCTGGCGGGCTCCC    GTCCGGG
+
+
+Energy 15: -23.270000: Start=47 S1=5 S2=6 L1=1 L2=5 L3=0 End=74
+
+                    CGGCG       G
+
+                    GGGGG    CGGGTT
+
+TGGCGTCGGGCCTGGCGGGCTCCCC    GTCCGAGC
+
+
+Energy 16: -23.225000: Start=1149 S1=5 S2=5 L1=1 L2=25 L3=0 End=1194
+
+                    CAGGGCCACACCAAGCCACCCGAGC       A
+
+                    CCGGT    CGTCG
+
+CGCATGCTAGAGACCAAGGTGGCCG    GCAGTGC
+
+
+Energy 17: -22.905000: Start=21 S1=6 S2=6 L1=9 L2=5 L3=0 End=58
+
+                    CCCCG       TGGCGTCGG
+
+                    TCGGGC    GGTCCG
+
+CTCGGCCATCGATGCCTCGGGGCTCG    TTGGGCGG
+
+
+Energy 18: -22.875000: Start=2205 S1=5 S2=5 L1=4 L2=23 L3=0 End=2251
+
+                    AGTGGTGGCAGGGGCTGCTCCTG       CTGG
+
+                    CCCGG    TGGCA
+
+CACCTTCGGCTGGTCCTGTGGGGCC    GCTGTGG
+
+Found #1 stem loop within loop2: S3=6 AL=7 L2_tail=4 loop2(2224-2245) cds_start=169
+(AGTGGT)GGCAGGG(GCTGCT)CCTG
+
+
+Energy 19: -22.410000: Start=1514 S1=5 S2=5 L1=7 L2=21 L3=0 End=1561
+
+                    GAGGCGGGCTCTGCGTGCGCA       AAGACCA
+
+                    TGGAG    GGCGT
+
+GATTGACCTGCTGGTGTTCGACCTC    CCGCGCC
+
+
+Energy 20: -21.755000: Start=2275 S1=5 S2=6 L1=4 L2=7 L3=0 End=2307
+
+                    GGGCCCG       CGGT
+
+                    TGTCG    TCGCAC
+
+TGTGCGCCCGGGGCTTGGGAGCGGC    AGTGTGTT
+
+
+Energy 21: -21.465000: Start=2180 S1=6 S2=5 L1=6 L2=15 L3=0 End=2222
+
+                    TGGGGCCCTGGACGG       ACCTTC
+
+                    GTCCTG    GTCGG
+
+TGACCCAGCTGGCCTCGGCCCGGGGC    TGGCCCA
+
+
+Energy 22: -21.355000: Start=2120 S1=5 S2=6 L1=2 L2=11 L3=0 End=2154
+
+                    AACCCCAGGCT       CC
+
+                    CTCAC    TCCTCG
+
+TGGGGTACACAGGATACTGGGGGTG    AGGGGTAC
+
+
+Energy 23: -21.340000: Start=1296 S1=5 S2=5 L1=1 L2=24 L3=0 End=1340
+
+                    CTGGGTGAGGGCCGGGGCTCCGAT       C
+
+                    GTGCC    CGGGA
+
+ATCCTGCCACACCAGATGACCACGG    GCCTTCT
+
+
+Energy 24: -21.090000: Start=323 S1=5 S2=5 L1=1 L2=33 L3=0 End=376
+
+                    CCGCGACGTGCCCCGACACCCAGCGGCCATGTC       T
+
+                    CGGTG    GACCA
+
+GTGGAGGGAGCAGTTCTACCGCTAC    CTGGTAC
+
+
+Energy 25: -20.915000: Start=1438 S1=5 S2=5 L1=10 L2=20 L3=0 End=1487
+
+                    ACCCCATGCAGCCGCCACCA       CAACGGTGCG
+
+                    GCCGG    TGGTG
+
+TGTACGTGAACAGCCGCGCCTGGCC    ATCGCGG
+
+
+Energy 26: -20.895000: Start=492 S1=5 S2=5 L1=1 L2=15 L3=0 End=527
+
+                    TGCACTGTGAAGATC       G
+
+                    CAGGA    ACCTC
+
+CATTCCGGGTACCAGTTCGCGTCCT    TGGAGCA
+
+
+Energy 27: -20.845000: Start=2237 S1=5 S2=6 L1=2 L2=22 L3=0 End=2282
+
+                    TGTGCGCCCGGGGCTTGGGAGC       TC
+
+                    TGGTG    TCGGTC
+
+GTGGCCCAGTGGTGGCAGGGGCTGC    GGCCGGTC
+
+
+Energy 28: -20.825000: Start=1080 S1=7 S2=6 L1=4 L2=26 L3=0 End=1135
+
+                    GCGGGCGCAGCCACAGCTGTCGGAGC       GACC
+
+                    GGGAGGT    CGTGCG
+
+GCCAAGGAGGGCTTGCGGCACTTTCTG    GCATGCTA
+
+
+Energy 29: -20.525000: Start=2180 S1=5 S2=5 L1=8 L2=19 L3=0 End=2226
+
+                    TGGGGCCCTGGACGGTGGC       CACCTTCG
+
+                    GTCCT    GGTCG
+
+TGACCCAGCTGGCCTCGGCCCGGGG    CCAGTGG
+
+
+Energy 30: -20.250000: Start=46 S1=5 S2=5 L1=3 L2=5 L3=0 End=73
+
+                    CGGCG       CGT
+
+                    GGGGG    CGGGT
+
+GTGGCGTCGGGCCTGGCGGGCTCCC    GTCCGAG
+
+
+Energy 31: -20.125000: Start=1928 S1=8 S2=5 L1=2 L2=5 L3=0 End=1960
+
+                    GGAGA       CC
+
+                    TGGAGAGG    GCGAG
+
+GGACATCGCCAGGCTCTGTGGCTTTTTC    TGCTTAT
+
+Time taken to run: 3 seconds 500 milliseconds
+-------------------------------------------------

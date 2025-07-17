@@ -1,0 +1,59 @@
+Sequence #: NM_032881 
+Start=167 End=538
+loaded 860 nucleotides, cds_start 167 to cds_end 538
+
+Energy 1: -23.690000: Start=4 S1=5 S2=7 L1=4 L2=21 L3=0 End=52
+
+                    CGGCCCGGTCGCCGGCATGGT       CGCC
+
+                    GAGAC    AGGAGGC
+
+                 GCACTCTG    TTCTCCGTC
+
+
+Energy 2: -23.235000: Start=704 S1=6 S2=5 L1=2 L2=29 L3=0 End=756
+
+                    CCCAGAATCCTATATGTGGCCTTGGGGTA       AC
+
+                    AGGGTC    TCACT
+
+GCCTTTCACAGGGTTCCACCTCCCAG    GGTGACA
+
+
+Energy 3: -22.855000: Start=53 S1=5 S2=5 L1=5 L2=27 L3=0 End=104
+
+                    GGCAGCCAGTCCAGGCGCCCGCTAGCT       CTGCA
+
+                    AGGGC    GGCCG
+
+TCGCCGGCATGGTTTCTCCGTCCTG    TCGGCGG
+
+
+Energy 4: -22.725000: Start=245 S1=5 S2=6 L1=5 L2=17 L3=0 End=288
+
+                    CGGGATGAGAGCGTGGC       AACCA
+
+                    GTCCA    GGTGTC
+
+TACTGCAGGGCCTCCAGGGCCGGGT    CCACGGAC
+
+
+Energy 5: -20.615000: Start=42 S1=5 S2=5 L1=10 L2=7 L3=0 End=78
+
+                    GCGGGAG       TCTCCGTCCT
+
+                    GCCGA    CGTCG
+
+GAGCGGCCCGGTCGCCGGCATGGTT    GCAGCCA
+
+
+Energy 6: -20.515000: Start=363 S1=5 S2=5 L1=4 L2=28 L3=0 End=414
+
+                    CTTTGTGACAGGCCGCAATGTCCGCTAC       AAGC
+
+                    TCCAG    TAGGT
+
+CACGGACCGTTGGGGGCATCAGGTC    GTCCACA
+
+Time taken to run: 1 seconds 190 milliseconds
+-------------------------------------------------
